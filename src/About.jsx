@@ -5,15 +5,15 @@ export default function About() {
     <section style={{ lineHeight: '1.8', maxWidth: '700px', margin: '2rem auto' }}>
       <h2>About Me</h2>
 
-      <p><strong>Full Name:</strong> Akshaj Kona</p>
-      <p><strong>Grade &amp; School:</strong> Senior at Byron Nelson High School, Texas</p>
-      <p><strong>Interests:</strong> Finance, Data Science, AI, Python, Football, Aerospace</p>
-      <p><strong>Leadership:</strong> President of Aerospace Club, Football Team Manager</p>
+      <p><strong>Full Name:</strong> Sree Sarayu Kona</p>
+      <p><strong>Grade &amp; School:</strong> Junior at University of North Texas</p>
+      <p><strong>Interests:</strong> Healthcare, Data Science, AI, Python</p>
+      <p><strong>Leadership:</strong> Eagle Ambassador/ Training and VIP Tour Shift Lead</p>
       <p><strong>Certifications:</strong> Google Analytics</p>
 
       <p>
         <strong>Career Goal:</strong><br />
-        To merge Data Science with Financial Strategy and become an AI-powered investment banker.
+        To merge Data Science with Medical filed and become an AI-powered Data Scientist.
       </p>
     </section>
   );
