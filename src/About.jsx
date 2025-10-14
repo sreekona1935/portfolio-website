@@ -5,7 +5,7 @@ export default function About() {
     <section style={{ lineHeight: '1.8', maxWidth: '700px', margin: '2rem auto' }}>
       <h2>About Me</h2>
 
-      <p><strong>Full Name:</strong> Akshaj Kona</p>
+      <p><strong>Full Name:</strong> Sree Sarayu Kona</p>
       <p><strong>Grade &amp; School:</strong> Senior at Byron Nelson High School, Texas</p>
       <p><strong>Interests:</strong> Finance, Data Science, AI, Python, Football, Aerospace</p>
       <p><strong>Leadership:</strong> President of Aerospace Club, Football Team Manager</p>
