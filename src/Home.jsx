@@ -8,12 +8,12 @@ export default function Home() {
         <img 
           src={image} 
           alt="Profile" 
-          style={{ width: 170, height: 170, borderRadius: '50%', objectFit: 'cover', border: '4px solid #61dafb', background: '#eee' }} 
+          style={{ width: 170, height: 170, borderRadius: '50%', objectFit: 'cover', border: '4px solid #753742', background: '#eee' }} 
         />
       </div>
       <div>
-        <h1>Hi, I'm Akshaj Kona</h1>
-        <h3>High School Senior | Data Science &amp; Finance Enthusiast | Future Investment Strategist</h3>
+        <h1>Hi, I'm Sree Kona</h1>
+        <h3>Junior at Univesity of North Texas | Data Science Enthusiast </h3>
         <p>
           I'm deeply passionate about the intersection of data science and finance, with a current focus 
           on building hands-on projects in Python and SQL. My long-term vision is to become an AI-driven 
