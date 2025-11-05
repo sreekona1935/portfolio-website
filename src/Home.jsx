@@ -8,16 +8,14 @@ export default function Home() {
         <img 
           src={image} 
           alt="Profile" 
-          style={{ width: 170, height: 170, borderRadius: '50%', objectFit: 'cover', border: '4px solid #753742', background: '#eee' }} 
+          style={{ width: 170, height: 170, borderRadius: '50%', objectFit: 'cover', border: '4px solid #61dafb', background: '#eee' }} 
         />
       </div>
       <div>
         <h1>Hi, I'm Sree Kona</h1>
-        <h3>Junior at Univesity of North Texas | Data Science Enthusiast </h3>
+        <h3>Computer Science at University of North Texas | AI &amp; Data Science  </h3>
         <p>
-          I'm deeply passionate about the intersection of data science and finance, with a current focus 
-          on building hands-on projects in Python and SQL. My long-term vision is to become an AI-driven 
-          investment strategist who bridges technology and financial insight to shape smarter, more ethical markets.
+          I’m passionate about the intersection of computer science, data analytics, and real-world problem-solving. I enjoy building projects that use Python, C++, and JavaScript to turn data into insights and interactive tools. My interests include machine learning, simulation modeling, web development, and cybersecurity research.
         </p>
 
         <h3 style={{ marginTop: '1.5rem' }}>Achievements:</h3>

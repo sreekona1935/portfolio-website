@@ -4,7 +4,7 @@
   align-items: center;
   justify-content: center;
   min-width: 120px;
-  min-height: 120px;
+  min-height: 100px;
   margin-top: -310px;
 }
 .App {
@@ -74,3 +74,4 @@ main {
 section h1, section h2 {
   margin-top: 0;
 }
+
